@@ -1,6 +1,8 @@
 # Markdown Extension Examples
 
-This page demonstrates some of the built-in markdown extensions provided by VitePress.
+[Go to Sample Page](./sample/sample.md)
+
+[Go to Zenn](https://zenn.dev/hiro_xre)
 
 ## Syntax Highlighting
 
